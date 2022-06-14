@@ -129,3 +129,6 @@ main {
 button.thumbnail {
   padding: 0;
 }
+.banner {
+  width: -webkit-fill-available;
+}

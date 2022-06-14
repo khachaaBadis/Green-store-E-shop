@@ -49,9 +49,12 @@ function HomeScreen() {
   return (
     <div>
       <Helmet>
-        <title>META-CABINE</title>
+        <title>Green-Store</title>
       </Helmet>
-      <h1>WELCOME TO META-CABINE'S MARKET PLACE</h1>
+      <h1>WELCOME TO GREEN STORE'S MARKET PLACE</h1>
+
+      
+      <img className='banner' src='../images/banner.jpg' alt='banner' />
 
       <h2>Featured Products</h2>
       <div className="products">
